@@ -1,1 +1,3 @@
 # ruby-example
+
+Exemplo pronto
